@@ -1,3 +1,2 @@
-#Demo
-
-Some Description
+# Demo
+Some Description.
